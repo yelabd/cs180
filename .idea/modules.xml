@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Homework10/Homework10.iml" filepath="$PROJECT_DIR$/Homework10/Homework10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework10V2/Homework10V2.iml" filepath="$PROJECT_DIR$/Homework10V2/Homework10V2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework7/Homework7.iml" filepath="$PROJECT_DIR$/Homework7/Homework7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework9/Homework9.iml" filepath="$PROJECT_DIR$/Homework9/Homework9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project3/Project3.iml" filepath="$PROJECT_DIR$/Project3/Project3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week4/Week4.iml" filepath="$PROJECT_DIR$/Week4/Week4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cs180.iml" filepath="$PROJECT_DIR$/cs180.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab10/lab10.iml" filepath="$PROJECT_DIR$/lab10/lab10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab11/lab11.iml" filepath="$PROJECT_DIR$/lab11/lab11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab13/lab13.iml" filepath="$PROJECT_DIR$/lab13/lab13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/networkingCode/networkingCode.iml" filepath="$PROJECT_DIR$/networkingCode/networkingCode.iml" />
+    </modules>
+  </component>
+</project>
